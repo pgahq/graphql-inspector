@@ -2,6 +2,7 @@
 
 ### vNEXT
 
+- **core**: Fix `Cannot convert object to primitive value` error for defaultValue in `ChangeType.InputFieldDefaultValueChanged`
 - **action**: Fix ignored `approve-label` for `push` events [#2133](https://github.com/kamilkisiela/graphql-inspector/pull/2133)
 
 ### v3.2.0
